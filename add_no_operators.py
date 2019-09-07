@@ -1,7 +1,10 @@
 '''
 Addition without operators: This program obtains two integers from the user
 and then adds them together without using operators. This is one of the 'hard'
-questions from 'Cracking the Coding Interview' by 
+questions from 'Cracking the Coding Interview' by Gayle Laakman McDowell.
+
+It goes without saying that in terms of efficiency, this is not the optimal way
+to solve the problem.
 '''
 
 print('Welcome to addition without a plus sign!')
